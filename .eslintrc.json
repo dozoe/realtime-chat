@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "next",
+    "prettier",
+    "plugin:@next/next/recommended",
+    "plugin:prettier/recommended"
+  ]
+}
